@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @saileshghimire
+- 👀 I’m interested in python
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on django and tkinter
+- 📫 How to reach me 
+- saileshghimire1@gmail.com
+- insta:ghimire.shailesh
+
+<!---
+saileshghimire/saileshghimire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
