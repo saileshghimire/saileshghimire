@@ -12,4 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saileshghimire&theme=tokyonight)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 
