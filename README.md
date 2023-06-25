@@ -17,3 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=saileshghimire&theme=algolia&show_icons=true)](https://github.com/saileshghimire)
 
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saileshghimire&show_icons=true&theme=dark&locale=en&layout=compact" alt="saileshghimire" />
+</p>
