@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saileshghimire
-- 👀 I’m interested in python
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on django and tkinter
+- 👀 I’m interested in Javascript, python
+- 🌱 I’m currently learning React,Express,Next django
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 
 - saileshghimire1@gmail.com
 - insta:ghimire.shailesh
